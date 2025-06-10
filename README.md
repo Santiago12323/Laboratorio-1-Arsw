@@ -124,14 +124,15 @@ Dentro del <build>, debajo de <pluginManagement>, añade o modifica la sección 
 
 ### 4. Comandos para generarlos:
 
-mvn javadoc:javadoc
-mvn javadoc:jar
-mvn javadoc:aggregate
-mvn javadoc:aggregate-jar
-mvn javadoc:test-javadoc
-mvn javadoc:test-jar
-mvn javadoc:test-aggregate
-mvn javadoc:test-aggregate-jar
+- `mvn javadoc:javadoc`
+- `mvn javadoc:jar`
+- `mvn javadoc:aggregate`
+- `mvn javadoc:aggregate-jar`
+- `mvn javadoc:test-javadoc`
+- `mvn javadoc:test-jar`
+- `mvn javadoc:test-aggregate`
+- `mvn javadoc:test-aggregate-jar`
+
 
 ### 5. Esto genera los javadoc y los empaqueta con el Jar.
 
