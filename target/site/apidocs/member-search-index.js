@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.escuelaing.arsw.ASE.app","c":"App","l":"App()","u":"%3Cinit%3E()"},{"p":"edu.escuelaing.arsw.ASE.app","c":"App","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
