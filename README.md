@@ -361,4 +361,18 @@ git rm log/*.log
 git rm *~             
 ```
 
+### para subir tus cambios al repositorio se debe seguir los siguientes pasos
+
+agregar los cambios al historial local de git
+
+![img.png](src/resorces/add.png)
+
+hacer un commit de ese historial nuevo
+
+![img.png](src/resorces/commit.png)
+
+y subir los cambios al repositorio en git hub
+
+![img.png](src/resorces/push.png)
+
 
