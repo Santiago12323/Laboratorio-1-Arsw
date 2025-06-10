@@ -25,11 +25,12 @@ Maven es una herramienta de gestión y construcción de proyectos que:
 
 1. este paso se salta debido a que ya estaba instalado en las maquinas 
 
+![alt text](image-1-1.png)
+
 ## Creación de proyecto con Maven
 
 Para crear un proyecto nuevo con Maven use el siguiente comando:
 
-```bash
 mvn archetype:generate \
   -DgroupId=edu.escuelaing.arsw.ASE.app \
   -DartifactId=lab1 \
