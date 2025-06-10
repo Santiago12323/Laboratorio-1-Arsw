@@ -1,6 +1,6 @@
 # Lab 1 – Introducción a Maven
 
-Este laboratorio introduce el uso de como herramienta de construcción, empaquetado y manejo de dependencias en proyectos Java.
+Este laboratorio introduce el uso de herramientas de construcción, empaquetado y manejo de dependencias en proyectos Java.
 
 ---
 
